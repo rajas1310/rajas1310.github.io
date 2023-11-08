@@ -35,7 +35,7 @@ h6,
 h1,
 .mobile-name {
   font-family: "Just Another Hand", cursive;
-  font-size: 7.5rem;
+  font-size: 5.5rem;
   letter-spacing: 0.1rem;
 }
 
@@ -87,12 +87,16 @@ h6.card-title {
 }
 
 .list-group-item{
-  font-size: medium;
+  font-size: 19px;
 }
 
 ul.nobullets{
   list-style-type: none;
   text-align: left;
+}
+
+li.paper{
+  margin-bottom: 7px;
 }
 
 li.paper-title{
@@ -240,8 +244,8 @@ button:active {
     padding: 0.3rem;
   }
  .navbar-brand .img-profile {
-    max-width: 9rem;
-    max-height: 9rem;
+    max-width: 8rem;
+    max-height: 8rem;
     border: 0.2rem solid #1873cde0;
     border-radius: 100%;
   }
