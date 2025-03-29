@@ -9,7 +9,7 @@ author_profile: true
 
 
 {% for post in site.portfolio reversed%}
-  {% unless post.path contains '/_portfolio/ign_' %}
+  {% unless post.path contains '_portfolio/ign_' %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
