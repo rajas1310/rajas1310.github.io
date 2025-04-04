@@ -36,7 +36,7 @@ Skills
 * <ins>Programming Languages</ins>
   * Python, C++, HTML/CSS, SQL, Shell-scripting
 * <ins>Others</ins>
-  * AWS, Apache Airflow, Docker, Autodesk Fusion360, Solidworks
+  * AWS, Apache Airflow, Docker, Autodesk Fusion360, Solidworks, Version Control
 * <ins>Non-technical</ins>
   * Communication, Problem-solving, Team Player, Detail-oriented
 
@@ -52,11 +52,11 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Leadership
 ======
