@@ -16,7 +16,7 @@ Before joining USC, I worked as a Machine Learning Engineer specializing in Comp
 My research interests lie at the intersection of robotics, perception, and learning-based methods for manipulation. I’m passionate about building systems that learn to understand and interact with the physical world.
 
 
-<a href="https://drive.google.com/file/d/1eUnsw3Eoywk_cGxmrvQnTDCM8GKSF_dp/view?usp=drive_link" target="_blank">Resume</a>
+<a href="https://drive.google.com/file/d/1k9iZBRoCOOwkscYKNdqkJe2WStbOA4BF/view?usp=sharing" target="_blank">Resume</a>
 
 <!-- [Resume](https://drive.google.com/file/d/1eUnsw3Eoywk_cGxmrvQnTDCM8GKSF_dp/view?usp=drive_link) -->
 
