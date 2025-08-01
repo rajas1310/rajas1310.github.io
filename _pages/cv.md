@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* **Computer Vision Intern**  &emsp; *[June 2025 - August 2025]*
+  * [Spectral AI](https://www.spectral-ai.com/), Dallas
+
 * **Graduate Research Assistant**  &emsp; *[Aug 2024 - Present]*
   * [SLURM Lab](https://slurm-lab-usc.github.io/) at USC
 
@@ -32,7 +35,7 @@ Skills
 ======
 * <ins>Frameworks and libraries</ins>
   * PyTorch, TensorFlow, Keras, fast.ai, MMAction2, Flask
-  * OpenCV, Pandas, NumPy, Scikit-learn
+  * OpenCV, OpenGL, Open3D, Pandas, NumPy, Scikit-learn
 * <ins>Programming Languages</ins>
   * Python, C++, HTML/CSS, SQL, Shell-scripting
 * <ins>Others</ins>
