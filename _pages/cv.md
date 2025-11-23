@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* **Computer Vision Intern**  &emsp; *[June 2025 - August 2025]*
+* **Computer Vision Intern**  &emsp; *[June 2025 - Present]*
   * [Spectral AI](https://www.spectral-ai.com/), Dallas
 
 * **Graduate Research Assistant**  &emsp; *[Aug 2024 - Present]*
