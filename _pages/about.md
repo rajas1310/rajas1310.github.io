@@ -18,7 +18,7 @@ Since Summer 2025, I am interning at [Spectral AI](https://www.spectral-ai.com/)
 My research interests lie at the intersection of computer vision, robotics, perception, and deep learning-based methods for manipulation. I’m passionate about building systems that learn to understand and interact with the physical world.
 
 
-<a href="https://drive.google.com/file/d/1ovEdmSxbWF9CPOQEZb2si0cOiw2k9QT3/view?usp=sharing" target="_blank">Resume</a>
+<a href="https://drive.google.com/file/d/1LqRs8fORztH9yEKCIuvXiMHLUkzNxQ2A/view?usp=sharing" target="_blank">Resume</a>
 
 <!-- [Resume](https://drive.google.com/file/d/1eUnsw3Eoywk_cGxmrvQnTDCM8GKSF_dp/view?usp=drive_link) -->
 
